@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%206%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-71.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 29 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,16 +50,12 @@ Sunday                   6 commits           ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 17 mins       ████████████████████████░   96.74 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   8 hrs 9 mins        █████████████████████████   98.47 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🐱‍💻 Projects: 
-RMAI                     4 hrs 36 mins       █████████████████████░░░░   84.30 % 
-PB_RM_Vision             32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-turtlebot3_drlnav        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-rmul24_gazebo_simulator  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+RMAI                     7 hrs 58 mins       ████████████████████████░   96.25 % 
+turtlebot3_drlnav        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 
 **I Mostly Code in C++** 
@@ -76,7 +72,7 @@ JavaScript               1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiezik/xiezik/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 04:23:01 UTC
+ Last Updated on 10/11/2024 04:22:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
