@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.3 kB Used in GitHub's Storage 
  > 
+> 🏆 29 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -50,12 +52,12 @@ Sunday                   6 commits           ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 32 mins       █████████████████████████   99.65 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python                   5 hrs 51 mins       █████████████████████████   99.91 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-RMAI                     7 hrs 15 mins       ████████████████████████░   95.99 % 
-turtlebot3_drlnav        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+RMAI                     5 hrs 44 mins       ████████████████████████░   97.99 % 
+turtlebot3_drlnav        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
 **I Mostly Code in C++** 
@@ -72,7 +74,7 @@ JavaScript               1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiezik/xiezik/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2024 04:25:31 UTC
+ Last Updated on 15/11/2024 04:26:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
