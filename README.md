@@ -19,8 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.3 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -52,11 +50,10 @@ Sunday                   6 commits           ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   52 mins             █████████████████████████   99.94 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-RMAI                     52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -73,7 +70,7 @@ JavaScript               1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiezik/xiezik/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2024 04:24:11 UTC
+ Last Updated on 18/11/2024 04:25:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
