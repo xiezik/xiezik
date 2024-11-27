@@ -52,10 +52,11 @@ Sunday                   6 commits           ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   10 mins             ███████████████████████░░   91.91 % 
+Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DLCV                     11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -72,7 +73,7 @@ JavaScript               1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiezik/xiezik/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2024 04:25:58 UTC
+ Last Updated on 27/11/2024 04:26:21 UTC
 <!--END_SECTION:waka-->
 
 <!--
