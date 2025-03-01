@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.5 kB Used in GitHub's Storage 
  > 
+> 🏆 19 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -50,10 +52,17 @@ Sunday                   10 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CMake                    31 mins             ████████████░░░░░░░░░░░░░   49.91 % 
+C++                      22 mins             █████████░░░░░░░░░░░░░░░░   34.64 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rm_cv_fans               58 mins             ███████████████████████░░   91.25 % 
+rm.cv.fans               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+sjtu                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+rm_vision_chuanda        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -72,7 +81,7 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiezik/xiezik/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2025 04:25:32 UTC
+ Last Updated on 01/03/2025 04:24:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
