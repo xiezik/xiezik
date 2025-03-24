@@ -52,14 +52,10 @@ Sunday                   12 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      46 mins             █████████████████░░░░░░░░   68.98 % 
-YAML                     20 mins             ████████░░░░░░░░░░░░░░░░░   31.02 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-armor_detector_openvino  45 mins             █████████████████░░░░░░░░   66.85 % 
-pb2025_rm_vision         11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-pb2025_infantry_ws       9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -78,7 +74,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiezik/xiezik/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2025 04:24:35 UTC
+ Last Updated on 24/03/2025 04:27:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
