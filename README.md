@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2016%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -50,10 +52,11 @@ Sunday                   12 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 38 mins             ████████████████░░░░░░░░░   62.44 % 
+YAML                     23 mins             █████████░░░░░░░░░░░░░░░░   37.56 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+human2humanoid           1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -72,7 +75,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiezik/xiezik/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 04:25:45 UTC
+ Last Updated on 28/03/2025 04:27:00 UTC
 <!--END_SECTION:waka-->
 
 <!--
