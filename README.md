@@ -19,8 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 1.5 kB Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -61,10 +59,10 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-C++                      5 repos             ██████████████░░░░░░░░░░░   55.56 % 
-C                        2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      6 repos             ██████████████░░░░░░░░░░░   54.55 % 
+C                        3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -74,7 +72,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiezik/xiezik/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2025 04:26:26 UTC
+ Last Updated on 09/04/2025 04:26:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
