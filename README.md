@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2018%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -50,10 +52,16 @@ Sunday                   12 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   38 mins             ████████████████░░░░░░░░░   63.10 % 
+XML                      13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+C++                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+CMake                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+test                     43 mins             ██████████████████░░░░░░░   71.09 % 
+exercise1                16 mins             ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+pb2025_rm_vision         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 
 **I Mostly Code in C++** 
@@ -72,7 +80,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiezik/xiezik/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2025 04:29:08 UTC
+ Last Updated on 23/05/2025 04:27:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
