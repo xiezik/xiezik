@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2025%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -25,6 +27,37 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+🌆 Daytime                29 commits          ███████████░░░░░░░░░░░░░░   42.65 % 
+🌃 Evening                30 commits          ███████████░░░░░░░░░░░░░░   44.12 % 
+🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   12 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Tuesday                  11 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Wednesday                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Thursday                 13 commits          █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Friday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Saturday                 5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Sunday                   12 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -41,7 +74,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/xiezik/xiezik/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 04:25:52 UTC
+ Last Updated on 21/09/2025 04:26:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
